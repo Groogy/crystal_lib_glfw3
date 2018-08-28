@@ -1,5 +1,7 @@
 # Crystal LibGLFW3
 
+**Note:** Original binding was done by [jellyman](https://github.com/jellymann). I have hover made a fork with fixes needed as it seems this user is not active anymore and I can't get my pull requests approved. Hence why this fork is independent of the original.
+
 libglfw3 bindings for Crystal. See also my [Idiomatic API](https://github.com/jellymann/crystal_glfw) which makes these bindings more accessible for Crystalists.
 
 ## Installation
@@ -9,8 +11,8 @@ Add to your `shards.yml`:
 ```yaml
 dependencies:
   lib_glfw3:
-    github: jellymann/crystal_lib_glfw3
-    version: 0.1.0
+    github: Groogy/crystal_lib_glfw3
+    version: 0.1.1
 ```
 
 Make sure you have [`libglfw3`](http://www.glfw.org/download.html) installed on your system
@@ -69,7 +71,7 @@ end
 
 ## Contributing
 
-1. Fork it ( https://github.com/jellymann/crystal_lib_glfw3/fork )
+1. Fork it ( https://github.com/Groogy/crystal_lib_glfw3/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
@@ -78,3 +80,4 @@ end
 ## Contributors
 
 - [jellymann](https://github.com/jellymann) Daniel Smith - creator, maintainer
+- [Groogy](https://github.com/Groogy) Henrik Valter Vogelius Hansson - forker
