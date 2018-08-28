@@ -1,6 +1,6 @@
 # Crystal LibGLFW3
 
-**Note:** Original binding was done by [jellyman](https://github.com/jellymann). I have hover made a fork with fixes needed as it seems this user is not active anymore and I can't get my pull requests approved. Hence why this fork is independent of the original.
+**Note:** Original binding was done by [jellyman](https://github.com/jellymann). I have however made a fork with fixes needed as it seems this user is not active anymore on this repo and I can't get my pull requests approved. Hence why this fork is independent of the original.
 
 libglfw3 bindings for Crystal. See also my [Idiomatic API](https://github.com/jellymann/crystal_glfw) which makes these bindings more accessible for Crystalists.
 
